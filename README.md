@@ -1,4 +1,4 @@
-# SQL-Projects-for-Beginners
+# SQL Projects for Beginners
 Building projects is a crucial part of your learning journey for several reasons:
 
 * They provide hands-on experience with real-world data scenarios
