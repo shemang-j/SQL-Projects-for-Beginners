@@ -6,6 +6,6 @@ Building projects is a crucial part of your learning journey for several reasons
 * They help reinforce and cement the concepts you've learned
 * They build your confidence in working with databases
 ## Case Studies
-* [Project 1: Analyze Amazon Sales Data](.)
+* [Project 1: Analyze Amazon Sales Data](.Project 1 Analyze Amazon Sales Data)
 * Project 2: Analyze Customer Support Ticket Data
 * Project 3: Analyze Marketing Campaign Performance
