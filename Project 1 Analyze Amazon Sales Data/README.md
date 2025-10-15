@@ -32,6 +32,8 @@ Here are some beginner-friendly questions to get you started:
 
 </details>
 
+---
+
 <details>
 <summary><h2>🧾 About the Dataset</h2></summary>
 
