@@ -13,9 +13,10 @@ You'll practice foundational **SQL** skills to summarize and clean the dataset.
 - Aggregate and summarize data using common SQL functions
 - Gain confidence exploring real-world datasets with simple analysis
 
----
+--- 
 
-## 🧩 Practice Questions
+<details>
+<summary><h2>🧩 Practice Questions</h2></summary>
 Here are some beginner-friendly questions to get you started:
 
 1. How many total rows (sales records) are in the dataset?  
@@ -63,7 +64,7 @@ This is a useful dataset for anyone trying to uncover the profitability of e-com
 | `Currency`           | The currency used for the sale. *(String)*          |
 
 You can download the dataset from Kaggle here:  
-[E-Commerce Sales Dataset on Kaggle](https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data) :contentReference[oaicite:0]{index=0}  
+[E-Commerce Sales Dataset on Kaggle](https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data)   
 
 </details>
 
