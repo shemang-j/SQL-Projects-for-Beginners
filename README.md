@@ -13,4 +13,4 @@ Building projects is a crucial part of your learning journey for several reasons
 
 1. [**Project 1: Analyze Amazon Sales Data**](./Project%201%20Analyze%20Amazon%20Sales%20Data)  
 2. [**Project 2: Analyze Customer Support Ticket Data**](./Project%202%20Analyze%20Customer%20Support%20Ticket%20Data) 
-3. **Project 3: Analyze Marketing Campaign Performance**
+3. [**Project 3: Analyze Marketing Campaign Performance**](./Project%203%20Analyze%20Marketing%20Campaign%20Performance)
