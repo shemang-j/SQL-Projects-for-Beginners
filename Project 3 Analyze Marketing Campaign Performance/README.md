@@ -40,21 +40,34 @@ A response model can provide a significant boost to the efficiency of a marketin
 
 ## 📊 Column Description
 
-| **Column Name**     | **Description**                                      |
-|----------------------|------------------------------------------------------|
-| `Category`           | Type of product. *(String)*                         |
-| `Size`               | Size of the product. *(String)*                     |
-| `Date`               | Date of the sale. *(Date)*                          |
-| `Status`             | Status of the sale. *(String)*                      |
-| `Fulfilment`         | Method of fulfilment. *(String)*                    |
-| `Style`              | Style of the product. *(String)*                    |
-| `SKU`                | Stock Keeping Unit. *(String)*                      |
-| `ASIN`               | Amazon Standard Identification Number. *(String)*   |
-| `Courier Status`     | Status of the courier. *(String)*                   |
-| `Qty`                | Quantity of the product. *(Integer)*                |
-| `Amount`             | Amount of the sale. *(Float)*                       |
-| `B2B`                | Business-to-business sale. *(Boolean)*              |
-| `Currency`           | The currency used for the sale. *(String)*          |
+| **Column Name**           | **Description**                                                                 |
+|----------------------------|---------------------------------------------------------------------------------|
+| `AcceptedCmp1`             | 1 if the customer accepted the offer in the 1st campaign, 0 otherwise. *(Boolean / Integer)* |
+| `AcceptedCmp2`             | 1 if the customer accepted the offer in the 2nd campaign, 0 otherwise. *(Boolean / Integer)* |
+| `AcceptedCmp3`             | 1 if the customer accepted the offer in the 3rd campaign, 0 otherwise. *(Boolean / Integer)* |
+| `AcceptedCmp4`             | 1 if the customer accepted the offer in the 4th campaign, 0 otherwise. *(Boolean / Integer)* |
+| `AcceptedCmp5`             | 1 if the customer accepted the offer in the 5th campaign, 0 otherwise. *(Boolean / Integer)* |
+| `Response` *(target)*      | 1 if the customer accepted the offer in the last campaign, 0 otherwise. *(Boolean / Integer)* |
+| `Complain`                 | 1 if the customer complained in the last 2 years. *(Boolean / Integer)*         |
+| `DtCustomer`               | Date of the customer’s enrolment with the company. *(Date)*                     |
+| `Education`                | Customer’s level of education. *(String)*                                      |
+| `Marital`                  | Customer’s marital status. *(String)*                                          |
+| `Kidhome`                  | Number of small children in the customer’s household. *(Integer)*              |
+| `Teenhome`                 | Number of teenagers in the customer’s household. *(Integer)*                   |
+| `Income`                   | Customer’s yearly household income. *(Numeric)*                                |
+| `MntFishProducts`          | Amount spent on fish products in the last 2 years. *(Numeric)*                 |
+| `MntMeatProducts`          | Amount spent on meat products in the last 2 years. *(Numeric)*                 |
+| `MntFruits`                | Amount spent on fruit products in the last 2 years. *(Numeric)*                |
+| `MntSweetProducts`         | Amount spent on sweet products in the last 2 years. *(Numeric)*                |
+| `MntWines`                 | Amount spent on wine products in the last 2 years. *(Numeric)*                 |
+| `MntGoldProds`             | Amount spent on gold products in the last 2 years. *(Numeric)*                 |
+| `NumDealsPurchases`        | Number of purchases made with a discount. *(Integer)*                          |
+| `NumCatalogPurchases`      | Number of purchases made using the catalogue. *(Integer)*                      |
+| `NumStorePurchases`        | Number of purchases made directly in stores. *(Integer)*                       |
+| `NumWebPurchases`          | Number of purchases made through the company’s website. *(Integer)*            |
+| `NumWebVisitsMonth`        | Number of visits to the company’s website in the last month. *(Integer)*        |
+| `Recency`                  | Number of days since the last purchase. *(Integer)*                            |
+
 
 You can download the dataset from Kaggle here:  
 [Marketing Campaign](https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign)   
