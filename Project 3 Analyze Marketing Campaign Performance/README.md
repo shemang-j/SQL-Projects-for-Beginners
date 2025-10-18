@@ -2,7 +2,9 @@
 # 🧮 Project 3: Analyze Marketing Campaign Performance
 
 ## 📘 Project Overview
+
 In this project, you'll analyze marketing campaign performance data to uncover trends and insights. You'll work with real-world marketing data to evaluate campaign effectiveness and audience engagement.
+
 ---
 
 ## 🎯 Learning Objectives
